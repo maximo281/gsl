@@ -25,3 +25,19 @@
             to improve your experience.
             </p>
         <![endif]-->
+        <header>
+            <div class="logo">
+                <img src="./images/logo_gsl.png" alt="Gsinlimites">
+            </div> 
+            <div class="titulo_gsl">titulo en blanco</div> 
+            <div class="titulo_gsl_02">Grupo Sin Limites <br> Consultora de empresas</div>
+        </header>
+        <nav>
+            <ul class="menu">
+                <li><a href="#">INICIO</a></li>
+                <li><a href="#">FILOSOFIA</a></li>
+                <li><a href="#">SERVICIOS</a></li>
+                <li><a href="#">CLIENTES</a></li>
+                <li><a href="#">CONTACTO</a></li>
+            </ul>
+        </nav>            
