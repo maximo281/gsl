@@ -1,5 +1,5 @@
 <section>
-	<article>slide</article>
-	<article>4 etiquetas</article>
-	<article>6 etiquetas</article>
+	<article class="slider">slider</article>
+	<article class= "anuncios">iconos anuncios</article>
+	<article class= "servicios">iconos servicios</article>
 </section>

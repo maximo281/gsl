@@ -14,6 +14,7 @@
 
         <link rel="stylesheet" href="./css/normalize.css"/>
         <link rel="stylesheet" href="./css/main.css"/>
+        <link rel="stylesheet" href="./css/gsl.css"/>
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
     </head>
     <body>
@@ -26,11 +27,11 @@
             </p>
         <![endif]-->
         <header>
-            <div class="logo">
-                <img src="./images/logo_gsl.png" alt="Gsinlimites">
+            <div class="logo left">
+                <img src="./img/gsl_logo.jpeg" alt="Gsinlimites">
             </div> 
-            <div class="titulo_gsl">titulo en blanco</div> 
-            <div class="titulo_gsl_02">Grupo Sin Limites <br> Consultora de empresas</div>
+            <div class="titulo_gsl left"></div> 
+            <div class="titulo_gsl_02 right"> <div class="titular">Grupo Sin Limites</div> <br> <strong>Consultora de empresas</strong></div>
         </header>
         <nav>
             <ul class="menu">
@@ -41,3 +42,4 @@
                 <li><a href="#">CONTACTO</a></li>
             </ul>
         </nav>            
+            
